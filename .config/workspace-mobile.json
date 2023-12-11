@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helpful websites.md",
+                "file": "Test.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "0450e9b9a1d2f209",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Helpful websites.md",
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Helpful websites.md",
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,16 +122,27 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Helpful websites.md"
+            "file": "Test.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "249559550481eaf3",
   "lastOpenFiles": [
-    "Test.md",
-    "Helpful websites.md"
+    "Helpful websites.md",
+    "Test.md"
   ]
 }
